@@ -1,7 +1,7 @@
 # fixed window 
 
-RATE_LIMIT = 10 
-WINDOW_TIME = 6 
+RATE_LIMIT = 5 
+WINDOW_TIME = 60
 
 # token bucket 
 
